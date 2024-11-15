@@ -2,6 +2,8 @@
 The Snowflake BUILD Bootcamp Day Two Project
 The project was based off this [Quickstart](https://quickstarts.snowflake.com/guide/ask_questions_to_your_own_documents_with_snowflake_cortex_search/index.html?index=../..index#0)
 
+I built a RAG based chatbot that parsed pdfs for usable text chunks that answered questions in natural language. It also had the option to answer the questions with a variet of different AIs like Llamas3.
+
 ## Final App
 ![image](https://github.com/user-attachments/assets/b7d2609f-304f-48bb-8112-31fee1adf245)
 ![image](https://github.com/user-attachments/assets/7891ccb6-f32e-4d5b-a50c-faa8ca5613d8)
