@@ -16,7 +16,8 @@ I built the data warehouse, database, and schema structure with a SQL Worksheet 
 See Snowflake SQL Worksheet
 
 ## Launch with Streamlit
-I worked with Streamlit in Snowflake to deploy it
+I worked with Streamlit in Snowflake to deploy it and change the code to RagCortexApp.py
 ![image](https://github.com/user-attachments/assets/3f9b3d2c-f480-4897-b5a8-1b41d979d9f5)
+
 
 
